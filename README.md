@@ -12,6 +12,7 @@
 | [vrazraz/awesome-openclaw-usecases-ru](https://github.com/vrazraz/awesome-openclaw-usecases-ru) | Русскоязычный перевод awesome-openclaw-usecases — 29 реальных сценариев использования OpenClaw | - | 1 | 2026-03-12 |
 | [kalichkin/openclaw-setup-guide-ru](https://github.com/kalichkin/openclaw-setup-guide-ru) | Гайд: как поставить OpenClaw на VPS с нуля (🇷🇺 RU) | - | 0 | 2026-03-12 |
 | [mower07/dm-handler-agent-skill](https://github.com/mower07/dm-handler-agent-skill) | EN: Secure DM handler for OpenClaw userbots: pre-check, silence on injection, fail-closed, cooldown, verification, risk- | - | 0 | 2026-03-02 |
+| [betnoolwork-boop/MyAgent](https://github.com/betnoolwork-boop/MyAgent) | Готовые решения для автоматизации на OpenClaw | Python | 0 | 2026-03-09 |
 
 ## О проекте
 - **Источники:** GitHub Search (ключевые слова: openclaw, openclaw-agent, openclaw-ru, русский и др.)
