@@ -1,1 +1,92 @@
-[]
+[
+  {
+    "repo": "https://github.com/disp06/Ru-collection-openclaw-data",
+    "name": "disp06/Ru-collection-openclaw-data",
+    "description": "Результаты сбора RU-ориентированных решений для OpenClaw",
+    "language": null,
+    "last_updated": "2026-03-19T10:28:19Z",
+    "stars": 0,
+    "security_risk": "none",
+    "risk_reason": ""
+  },
+  {
+    "repo": "https://github.com/disp06/Ru-collection-openclaw",
+    "name": "disp06/Ru-collection-openclaw",
+    "description": "Сбор RU-ориентированных решений для OpenClaw",
+    "language": "Python",
+    "last_updated": "2026-03-19T10:23:32Z",
+    "stars": 0,
+    "security_risk": "none",
+    "risk_reason": ""
+  },
+  {
+    "repo": "https://github.com/yasg1988/openclaw-rus",
+    "name": "yasg1988/openclaw-rus",
+    "description": "Российские расширения для OpenClaw — персональный ИИ-ассистент с поддержкой VK, MAX, YandexGPT, GigaChat",
+    "language": "TypeScript",
+    "last_updated": "2026-03-18T17:11:46Z",
+    "stars": 9,
+    "security_risk": "none",
+    "risk_reason": ""
+  },
+  {
+    "repo": "https://github.com/kalichkin/openclaw-setup-guide-ru",
+    "name": "kalichkin/openclaw-setup-guide-ru",
+    "description": "Гайд: как поставить OpenClaw на VPS с нуля (🇷🇺 RU)",
+    "language": null,
+    "last_updated": "2026-03-12T06:34:21Z",
+    "stars": 0,
+    "security_risk": "none",
+    "risk_reason": ""
+  },
+  {
+    "repo": "https://github.com/mower07/dm-handler-agent-skill",
+    "name": "mower07/dm-handler-agent-skill",
+    "description": "EN: Secure DM handler for OpenClaw userbots: pre-check, silence on injection, fail-closed, cooldown, verification, risk-",
+    "language": null,
+    "last_updated": "2026-03-02T12:48:36Z",
+    "stars": 0,
+    "security_risk": "none",
+    "risk_reason": ""
+  },
+  {
+    "repo": "https://github.com/aggel008/openclaw-ru-pack",
+    "name": "aggel008/openclaw-ru-pack",
+    "description": "Русский пак для OpenClaw — 6 скиллов для жизни: договоры, ЖКХ, анализы, претензии, госдокументы, налоги ИП",
+    "language": null,
+    "last_updated": "2026-03-18T12:55:09Z",
+    "stars": 2,
+    "security_risk": "none",
+    "risk_reason": ""
+  },
+  {
+    "repo": "https://github.com/vrazraz/awesome-openclaw-usecases-ru",
+    "name": "vrazraz/awesome-openclaw-usecases-ru",
+    "description": "Русскоязычный перевод awesome-openclaw-usecases — 29 реальных сценариев использования OpenClaw",
+    "language": null,
+    "last_updated": "2026-03-12T22:06:08Z",
+    "stars": 1,
+    "security_risk": "none",
+    "risk_reason": ""
+  },
+  {
+    "repo": "https://github.com/Cloud-11/openclaw-dashboard-plus",
+    "name": "Cloud-11/openclaw-dashboard-plus",
+    "description": "OpenClaw Dashboard enhancement extension plugin. Supports 简体中文, English, 繁體中文, 日本語, 한국어, Français, Español, Русский, Deu",
+    "language": "JavaScript",
+    "last_updated": "2026-03-19T06:12:25Z",
+    "stars": 2,
+    "security_risk": "none",
+    "risk_reason": ""
+  },
+  {
+    "repo": "https://github.com/betnoolwork-boop/MyAgent",
+    "name": "betnoolwork-boop/MyAgent",
+    "description": "Готовые решения для автоматизации на OpenClaw",
+    "language": "Python",
+    "last_updated": "2026-03-09T18:38:43Z",
+    "stars": 0,
+    "security_risk": "none",
+    "risk_reason": ""
+  }
+]
