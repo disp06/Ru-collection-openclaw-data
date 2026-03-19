@@ -1,25 +1,5 @@
 [
   {
-    "repo": "https://github.com/disp06/Ru-collection-openclaw-data",
-    "name": "disp06/Ru-collection-openclaw-data",
-    "description": "Результаты сбора RU-ориентированных решений для OpenClaw",
-    "language": null,
-    "last_updated": "2026-03-19T10:28:19Z",
-    "stars": 0,
-    "security_risk": "none",
-    "risk_reason": ""
-  },
-  {
-    "repo": "https://github.com/disp06/Ru-collection-openclaw",
-    "name": "disp06/Ru-collection-openclaw",
-    "description": "Сбор RU-ориентированных решений для OpenClaw",
-    "language": "Python",
-    "last_updated": "2026-03-19T10:23:32Z",
-    "stars": 0,
-    "security_risk": "none",
-    "risk_reason": ""
-  },
-  {
     "repo": "https://github.com/yasg1988/openclaw-rus",
     "name": "yasg1988/openclaw-rus",
     "description": "Российские расширения для OpenClaw — персональный ИИ-ассистент с поддержкой VK, MAX, YandexGPT, GigaChat",
@@ -76,16 +56,6 @@
     "language": "JavaScript",
     "last_updated": "2026-03-19T06:12:25Z",
     "stars": 2,
-    "security_risk": "none",
-    "risk_reason": ""
-  },
-  {
-    "repo": "https://github.com/betnoolwork-boop/MyAgent",
-    "name": "betnoolwork-boop/MyAgent",
-    "description": "Готовые решения для автоматизации на OpenClaw",
-    "language": "Python",
-    "last_updated": "2026-03-09T18:38:43Z",
-    "stars": 0,
     "security_risk": "none",
     "risk_reason": ""
   }
