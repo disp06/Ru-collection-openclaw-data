@@ -10,13 +10,8 @@
 | [smvlx/openclaw-marketplace-ru](https://github.com/smvlx/openclaw-marketplace-ru) |  | Shell | 10 | 2026-03-18 |
 | [yasg1988/openclaw-rus](https://github.com/yasg1988/openclaw-rus) | Российские расширения для OpenClaw — персональный ИИ-ассистент с поддержкой VK, MAX, YandexGPT, GigaChat | TypeScript | 9 | 2026-03-18 |
 | [siimvene/openclaw-claude-runner](https://github.com/siimvene/openclaw-claude-runner) |  | TypeScript | 7 | 2026-03-18 |
-| [deeqyaqub1-cmd/zero-rules-openclaw](https://github.com/deeqyaqub1-cmd/zero-rules-openclaw) | Deterministic engine for OpenClaw. Skip the LLM for math, time, and files to save 50-70% on token costs. | HTML | 7 | 2026-02-25 |
-| [Bububuger/spanory](https://github.com/Bububuger/spanory) | Cross-runtime observability toolkit for AI agent systems — unified tracing for Claude Code, OpenClaw & OpenCode via Open | TypeScript | 5 | 2026-03-19 |
-| [adybag14-cyber/ZAR-Zig-Agent-Runtime](https://github.com/adybag14-cyber/ZAR-Zig-Agent-Runtime) | OpenClaw Zig port bootstrap from OpenClaw Go v2.10.x baseline with phased parity tracking. ZAR is an AI-native runtime a | PowerShell | 2 | 2026-03-19 |
 | [adybag14-cyber/openclaw-rust](https://github.com/adybag14-cyber/openclaw-rust) | openclaw but its rust | Rust | 2 | 2026-03-01 |
 | [aggel008/openclaw-ru-pack](https://github.com/aggel008/openclaw-ru-pack) | Русский пак для OpenClaw — 6 скиллов для жизни: договоры, ЖКХ, анализы, претензии, госдокументы, налоги ИП | - | 2 | 2026-03-18 |
-| [Cloud-11/openclaw-dashboard-plus](https://github.com/Cloud-11/openclaw-dashboard-plus) | OpenClaw Dashboard enhancement extension plugin. Supports 简体中文, English, 繁體中文, 日本語, 한국어, Français, Español, Русский, Deu | JavaScript | 2 | 2026-03-19 |
-| [MAXHONG/autonomous-long-running-full-stack-delivery-agent](https://github.com/MAXHONG/autonomous-long-running-full-stack-delivery-agent) | Multi-platform packaging of the autonomous long-running full-stack delivery agent skill for Codex, OpenCode, Claude Code | PowerShell | 1 | 2026-03-19 |
 | [DevvGwardo/openclaw-ruview-presence](https://github.com/DevvGwardo/openclaw-ruview-presence) | OpenClaw plugin for presence-aware agent behavior powered by RuView WiFi sensing | TypeScript | 1 | 2026-03-09 |
 | [MinLouLou/openclaw-ops-runbooks](https://github.com/MinLouLou/openclaw-ops-runbooks) | openclaw 自动运维 | Python | 1 | 2026-03-07 |
 | [mergisi/openclaw-rules](https://github.com/mergisi/openclaw-rules) | Agent development rules for Claude Code, Cursor, and Windsurf. Build better OpenClaw agents with AI-assisted coding. | Shell | 1 | 2026-03-10 |
@@ -36,7 +31,6 @@
 | [m0x14o/openclaw-task-runtime](https://github.com/m0x14o/openclaw-task-runtime) | Durable task runtime for OpenClaw with task cards, checkpoints, heartbeat watchdogs, and safe auto-resume via adapters. | Python | 0 | 2026-03-14 |
 | [Tech-to-Thrive/openclaw-plugin-ruvector](https://github.com/Tech-to-Thrive/openclaw-plugin-ruvector) | OpenClaw memory plugin backed by RuVector — high-performance Rust vector database for AI agent long-term memory | TypeScript | 0 | 2026-03-13 |
 | [eternity69/OpenClaw-Install-Guide-RU-](https://github.com/eternity69/OpenClaw-Install-Guide-RU-) |  | HTML | 0 | 2026-03-13 |
-| [Looping-AI/looping-openclaw-codespace-runner](https://github.com/Looping-AI/looping-openclaw-codespace-runner) | Codespace Agent Runner | - | 0 | 2026-03-13 |
 | [nustanakritwithai/openclaw-runtime-dashboard-vercel](https://github.com/nustanakritwithai/openclaw-runtime-dashboard-vercel) | OpenClaw Runtime Dashboard ready for Vercel deployment | TypeScript | 0 | 2026-03-12 |
 | [lvckvip/openclaw-runne](https://github.com/lvckvip/openclaw-runne) |  | - | 0 | 2026-03-12 |
 | [kalichkin/openclaw-setup-guide-ru](https://github.com/kalichkin/openclaw-setup-guide-ru) | Гайд: как поставить OpenClaw на VPS с нуля (🇷🇺 RU) | - | 0 | 2026-03-12 |
@@ -60,7 +54,6 @@
 | [AlabamaMike/openclaw-ruvector](https://github.com/AlabamaMike/openclaw-ruvector) | A memory system for OpenClaw agents built with ruvector | TypeScript | 0 | 2026-02-15 |
 | [wo1203656818-beep/openclaw-rust](https://github.com/wo1203656818-beep/openclaw-rust) | OpenClaw AI agent framework rewritten in Rust | - | 0 | 2026-02-15 |
 | [openclaw-oracle/openclaw-skill-oracles-run](https://github.com/openclaw-oracle/openclaw-skill-oracles-run) | https://oracles.run api market voting skill for you clowbot | Python | 0 | 2026-02-15 |
-| [daavfx/OPenclawd---No-GC-SIR-RUNTIME](https://github.com/daavfx/OPenclawd---No-GC-SIR-RUNTIME) | Compiled using tsc rust compiler, NO garbage collector and SIR runtime from RYIUK project. My goal is to provide a brigh | TypeScript | 0 | 2026-02-14 |
 | [smvlx/openclaw-ru](https://github.com/smvlx/openclaw-ru) |  | TypeScript | 0 | 2026-02-12 |
 | [samirrayani/openclaw-runtime](https://github.com/samirrayani/openclaw-runtime) |  | Shell | 0 | 2026-01-31 |
 | [gordonkwokgz/openclaw-runninghub-plugin](https://github.com/gordonkwokgz/openclaw-runninghub-plugin) |  | JavaScript | 0 | 2026-01-31 |
