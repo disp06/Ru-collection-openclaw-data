@@ -6,11 +6,7 @@
 
 | Название | Описание | Язык | ⭐ | Обновлено |
 |----------|----------|------|----|-----------|
-| [yasg1988/openclaw-rus](https://github.com/yasg1988/openclaw-rus) | Российские расширения для OpenClaw — персональный ИИ-ассистент с поддержкой VK, MAX, YandexGPT, GigaChat | TypeScript | 9 | 2026-03-18 |
-| [aggel008/openclaw-ru-pack](https://github.com/aggel008/openclaw-ru-pack) | Русский пак для OpenClaw — 6 скиллов для жизни: договоры, ЖКХ, анализы, претензии, госдокументы, налоги ИП | - | 2 | 2026-03-18 |
-| [vrazraz/awesome-openclaw-usecases-ru](https://github.com/vrazraz/awesome-openclaw-usecases-ru) | Русскоязычный перевод awesome-openclaw-usecases — 29 реальных сценариев использования OpenClaw | - | 1 | 2026-03-12 |
-| [kalichkin/openclaw-setup-guide-ru](https://github.com/kalichkin/openclaw-setup-guide-ru) | Гайд: как поставить OpenClaw на VPS с нуля (🇷🇺 RU) | - | 0 | 2026-03-12 |
-| [betnoolwork-boop/MyAgent](https://github.com/betnoolwork-boop/MyAgent) | Готовые решения для автоматизации на OpenClaw | Python | 0 | 2026-03-09 |
+| [RachoYA/openclaw-dashboard](https://github.com/RachoYA/openclaw-dashboard) | Анимированный дашборд агентов OpenClaw в стиле Sims — визуализация работы AI-агентов в реальном времени | TypeScript | 0 | 2026-03-20 |
 
 ## О проекте
 - **Источники:** GitHub Search (ключевые слова: openclaw, openclaw-agent, openclaw-ru, русский и др.)
