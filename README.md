@@ -6,7 +6,6 @@
 
 | Название | Тип | RU-Релевантность | Use Case | Зрелость | ⭐ |
 |----------|-----|------------------|----------|----------|----|
-| [RachoYA/openclaw-dashboard](https://github.com/RachoYA/openclaw-dashboard) | Other | Русскоязычная документация | Анимированный дашборд агентов OpenClaw в стиле Sims — визуализация работы AI-агентов в реальном времени | Prototype | 0 |
 
 ## О проекте
 - **Источники:** GitHub Search (ключевые слова: openclaw, agent, mcp, integrations, russian и др.)
