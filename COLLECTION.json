@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "repo": "https://github.com/RachoYA/openclaw-dashboard",
+    "name": "RachoYA/openclaw-dashboard",
+    "description": "Анимированный дашборд агентов OpenClaw в стиле Sims — визуализация работы AI-агентов в реальном времени",
+    "language": "TypeScript",
+    "last_updated": "2026-03-20T10:48:40Z",
+    "stars": 0,
+    "security_risk": "none",
+    "risk_reason": "",
+    "type": "Other",
+    "ru_relevance": "Русскоязычная документация",
+    "use_case": "Анимированный дашборд агентов OpenClaw в стиле Sims — визуализация работы AI-агентов в реальном времени",
+    "maturity": "Prototype"
+  }
+]
