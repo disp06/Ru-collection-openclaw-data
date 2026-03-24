@@ -6,15 +6,45 @@
 
 | Название | Тип | RU-Релевантность | Use Case | Зрелость | ⭐ |
 |----------|-----|------------------|----------|----------|----|
+| [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) | Other | RU doc | 🔥 Take full control of your VPS with 1Panel. Deploy OpenClaw in one click. | Prod | 34519 |
+| [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | Other | RU doc | Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI... | Prod | 19858 |
+| [openclaw/skills](https://github.com/openclaw/skills) | Agent Skill/Tool | RU doc | All versions of all skills that are on clawhub.com archived | Prod | 3356 |
+| [openakita/openakita](https://github.com/openakita/openakita) | Agent Skill/Tool | RU doc | An open-source AI assistant framework with skills and agent architecture | Prod | 1399 |
+| [onecli/onecli](https://github.com/onecli/onecli) | Other | RU doc | Open-source credential vault, give your AI agents access to services without exposing keys. | Prod | 1074 |
+| [nexu-io/nexu](https://github.com/nexu-io/nexu) | Other | RU doc | The simplest desktop client for OpenClaw 🦞 — bridge your Agent to WeChat, Feishu, Slack & Discord in one click. Works wi... | Prod | 848 |
+| [prompt-security/clawsec](https://github.com/prompt-security/clawsec) | Agent Skill/Tool | RU doc | A complete security skill suite for OpenClaw's and NanoClaw agents (and variants). Protect your SOUL.md (etc') with drif... | Prod | 830 |
+| [GCWing/BitFun](https://github.com/GCWing/BitFun) | Bot | Интеграция с telegram | BitFun is a next-generation AI assistant with built-in Code Agent and Cowork Agent. It has memory, personality, and the ... | Prod | 511 |
+| [eat-pray-ai/yutu](https://github.com/eat-pray-ai/yutu) | Agent Skill/Tool | RU doc | The AI-powered toolkit that grows your YouTube channel on autopilot. | Prod | 413 |
+| [profbernardoj/everclaw-community-branches](https://github.com/profbernardoj/everclaw-community-branches) | Other | RU doc | Decentralized AI inference for OpenClaw agents. Powered by Morpheus AI. Stake MOR, access Kimi K2.5 + 10 models, never r... | Prod | 107 |
+| [iswalle/getnote-openclaw](https://github.com/iswalle/getnote-openclaw) | Agent Skill/Tool | RU doc | Get 笔记 openclaw Skill | Stable | 53 |
+| [joshuaswarren/openclaw-engram](https://github.com/joshuaswarren/openclaw-engram) | Other | RU doc | Local-first memory plugin for OpenClaw AI agents. LLM-powered extraction, plain markdown storage, hybrid search via QMD.... | Beta | 27 |
+| [sbhooley/ainativelang](https://github.com/sbhooley/ainativelang) | Agent Skill/Tool | RU doc | AINL helps turn AI from "a smart conversation" into "a structured worker."  It is designed for teams building AI workflo... | Beta | 10 |
+| [ProgramCaiCai/openclaw-context-safe-plugin](https://github.com/ProgramCaiCai/openclaw-context-safe-plugin) | Agent Skill/Tool | RU doc | Standalone OpenClaw context-safe plugin for tool-result trimming and context-engine slot installation. | Proto | 7 |
+| [edwin-hao-ai/Awareness-SDK](https://github.com/edwin-hao-ai/Awareness-SDK) | Other | RU doc | Local-first AI agent memory — one command, 13+ IDEs, works offline. Persistent memory for Claude Code, Cursor, Windsurf,... | Proto | 6 |
+| [swapperfinance/swapper-toolkit](https://github.com/swapperfinance/swapper-toolkit) | Agent Skill/Tool | RU doc | DeFi toolkit for AI agents and coding assistants — deposit funds, execute trades, and manage crypto wallets. Works with ... | Proto | 6 |
 | [clawdb-ai/clawdb](https://github.com/clawdb-ai/clawdb) | Other | RU doc | Pandas Backend For Openclaw | Proto | 6 |
 | [xigpz/openclaw-console](https://github.com/xigpz/openclaw-console) | Agent Skill/Tool | RU doc | OpenClaw 可视化管理后台 - 配置管理、模型配置、Skills管理 | Proto | 5 |
-| [LangSensei/swat-v2](https://github.com/LangSensei/swat-v2) | MCP Server | RU doc | SWAT v2 — AI task orchestration system. Go MCP server + OpenClaw bridge plugin. | Proto | 3 |
+| [SpaceMolt/www](https://github.com/SpaceMolt/www) | Other | RU doc | Public website for spacemolt.com - The first MMO built for AI agents | Proto | 4 |
+| [ClawBackup-AI/ClawBackup](https://github.com/ClawBackup-AI/ClawBackup) | Other | RU doc | OpenClaw plugin that provides enhanced backup and recovery capabilities for OpenClaw 为 OpenClaw 提供增强的备份和恢复功能 | Proto | 4 |
 | [clawdreyhepburn/carapace](https://github.com/clawdreyhepburn/carapace) | MCP Server | RU doc | 🦞 Your agent's exoskeleton. Immutable Cedar policy boundaries for MCP tool access. | Proto | 3 |
+| [LangSensei/swat-v2](https://github.com/LangSensei/swat-v2) | MCP Server | RU doc | SWAT v2 — AI task orchestration system. Go MCP server + OpenClaw bridge plugin. | Proto | 3 |
 | [koiopenclaw-max/koi-dashboard-v2](https://github.com/koiopenclaw-max/koi-dashboard-v2) | Other | RU doc | Koi Dashboard 🐟 - OpenClaw Status Monitor | Proto | 2 |
+| [amazeeio/openclaw-lagoon](https://github.com/amazeeio/openclaw-lagoon) | Other | RU doc | Unspecified | Proto | 2 |
+| [runcycles/cycles-server](https://github.com/runcycles/cycles-server) | MCP Server | RU doc | Reference server for agent budget enforcement, reservations, commits, releases, and balances. | Proto | 2 |
+| [Cluka-399/openclaw-skills-explorer](https://github.com/Cluka-399/openclaw-skills-explorer) | Agent Skill/Tool | RU doc | OpenClaw Skills Explorer - discover and browse skills for your OpenClaw agent | Proto | 2 |
+| [BBJcaptain/keju2](https://github.com/BBJcaptain/keju2) | Connector | RU doc | Keju scraping for OpenClaw on Hetzner | Proto | 1 |
+| [Automind-Lab/automindlab-stack](https://github.com/Automind-Lab/automindlab-stack) | Connector | RU doc | Business/enterprise stack for BMO/OpenClaw integrations | Proto | 1 |
+| [ProgramCaiCai/openclaw-customprovider-cache](https://github.com/ProgramCaiCai/openclaw-customprovider-cache) | Other | RU doc | Independent OpenClaw plugin that preserves provider-native cache/session identifiers for custom providers. | Proto | 1 |
+| [memory125/Chinese-Classics-Skills](https://github.com/memory125/Chinese-Classics-Skills) | Agent Skill/Tool | RU doc | OpenClaw skills for learning Chinese classics: Zhouyi (I Ching) and Huangdi Neijing (Yellow Emperor Inner Classic) | Proto | 1 |
+| [liveljack/claw_assistant](https://github.com/liveljack/claw_assistant) | Other | RU doc | The assistant to openclaw | Proto | 1 |
+| [profbernardoj/solanaclaw.xyz](https://github.com/profbernardoj/solanaclaw.xyz) | Other | RU doc | Solana-focused OpenClaw agent for SOL transactions and DeFi | Proto | 1 |
+| [profbernardoj/homeclaw.org](https://github.com/profbernardoj/homeclaw.org) | Other | RU doc | Home automation and household management with OpenClaw | Proto | 1 |
+| [dr34m-cn/openclaw-docker](https://github.com/dr34m-cn/openclaw-docker) | Other | RU doc | Automatically sync from ghcr.io/openclaw/openclaw to Docker Hub every 10 minutes. 官方实时同步镜像 | Proto | 1 |
+| [profbernardoj/appleclaw.org](https://github.com/profbernardoj/appleclaw.org) | Other | RU doc | OpenClaw installation and optimization for macOS and iOS | Proto | 1 |
+| [profbernardoj/androidclaw.org](https://github.com/profbernardoj/androidclaw.org) | Other | RU doc | OpenClaw installation and optimization for Android | Proto | 1 |
 | [KeganHollern/claw-tools](https://github.com/KeganHollern/claw-tools) | Agent Skill/Tool | RU doc | Series of OpenClaw tools I build and maintain for my own bot | Proto | 1 |
 | [wrxck/ClawPod](https://github.com/wrxck/ClawPod) | Connector | RU doc | AI Assistant for iOS 6 — native Objective-C port of OpenClaw for jailbroken devices. System-level integration via Mobile... | Proto | 1 |
 | [Vijayunserviceable943/openclaw-easy-tutorial-zh-cn](https://github.com/Vijayunserviceable943/openclaw-easy-tutorial-zh-cn) | Agent Skill/Tool | RU doc | Guide users step-by-step to set up and use OpenClaw AI assistants in Chinese, from chat basics to multi-agent collaborat... | Proto | 1 |
-| [BBJcaptain/keju2](https://github.com/BBJcaptain/keju2) | Connector | RU doc | Keju scraping for OpenClaw on Hetzner | Proto | 1 |
 | [cerebrovascular-arcadian597/openclaw-deployer](https://github.com/cerebrovascular-arcadian597/openclaw-deployer) | Agent Skill/Tool | RU doc | Deploy OpenClaw AI agents on Windows with a zero-code, visual tool that automates setup, environment checks, and service... | Proto | 1 |
 | [imclaw/weclaude](https://github.com/imclaw/weclaude) | Other | RU doc | Chat with Claude Code via WeChat (一键安装 通过微信控制Claude Code） | Proto | 1 |
 | [paytenmorrow7-dot/clawInstaller](https://github.com/paytenmorrow7-dot/clawInstaller) | Other | RU doc | Automate Windows deployment of OpenClaw with a portable C# app that isolates environments, handles dependencies, and opt... | Proto | 1 |
@@ -22,6 +52,69 @@
 | [jlinefake/ai-orchestrator](https://github.com/jlinefake/ai-orchestrator) | Other | RU doc | Manage and coordinate multiple AI CLI instances with real-time monitoring, hierarchical control, and multi-agent verific... | Proto | 1 |
 | [vibhu1233/autoresearch](https://github.com/vibhu1233/autoresearch) | Other | RU doc | Enable autonomous AI agents to optimize LLM training code through iterative experiments and improve models without manua... | Proto | 1 |
 | [Lee93whut/openclaw](https://github.com/Lee93whut/openclaw) | Other | RU doc | 保存龙虾数据 | Proto | 0 |
+| [aileen5150/openclaw-lab](https://github.com/aileen5150/openclaw-lab) | Agent Skill/Tool | RU doc | OpenClaw research & tools dashboard | Proto | 0 |
+| [daouadjiabdou18-hue/Openclaw](https://github.com/daouadjiabdou18-hue/Openclaw) | Other | RU doc | Unspecified | Proto | 0 |
+| [sequrity-ai/openclawbench](https://github.com/sequrity-ai/openclawbench) | Other | RU doc | Unspecified | Proto | 0 |
+| [nowsoar/openclaw-vibe-coding](https://github.com/nowsoar/openclaw-vibe-coding) | Other | RU doc | 使用openclaw调用claude code生成的有趣项目集合 | Proto | 0 |
+| [superlayy/openclaw-devkit](https://github.com/superlayy/openclaw-devkit) | Agent Skill/Tool | Интеграция с vk | Lightweight Python CLI toolkit for developer productivity | Proto | 0 |
+| [lyy3431/clawclock](https://github.com/lyy3431/clawclock) | Other | RU doc | 一个纯由AI（feishu+openclaw）开发的钟表小程序 | Proto | 0 |
+| [AlekseiUL/openclaw-superagent](https://github.com/AlekseiUL/openclaw-superagent) | Other | RU doc | Complete AI Agent System for OpenClaw — memory, self-healing, self-improvement, voice, automation | Proto | 0 |
+| [xingpo5800/openclaw-memory-backup](https://github.com/xingpo5800/openclaw-memory-backup) | Other | RU doc | Unspecified | Proto | 0 |
+| [ShanksChen/my-training-data](https://github.com/ShanksChen/my-training-data) | Other | RU doc | My training data for openclaw | Proto | 0 |
+| [alexwill87/openclaw-field-playbook](https://github.com/alexwill87/openclaw-field-playbook) | Other | RU doc | Unspecified | Proto | 0 |
+| [haohappy/openclaw-cases](https://github.com/haohappy/openclaw-cases) | Other | RU doc | Unspecified | Proto | 0 |
+| [mjanssen19/SoundClawd](https://github.com/mjanssen19/SoundClawd) | Agent Skill/Tool | RU doc | OpenClaw skill that identifies tracks from SoundCloud Live set screenshots, looks up tracklists on 1001tracklists.com, a... | Proto | 0 |
+| [git-zhanglei/skill-tester](https://github.com/git-zhanglei/skill-tester) | Agent Skill/Tool | RU doc | 测试openclaw skill | Proto | 0 |
+| [Umbral-Bot/umbral-agent-stack](https://github.com/Umbral-Bot/umbral-agent-stack) | Other | RU doc | Infraestructura híbrida: OpenClaw en VPS + Worker Windows (VM) + roadmap LangGraph/LiteLLM/PAD. Runbooks, scripts y docu... | Proto | 0 |
+| [Codename-11/voxel](https://github.com/Codename-11/voxel) | Other | RU doc | Voxel — Pocket AI companion. Animated cube mascot on Pi Zero 2W + Whisplay HAT, connected to your AI agent team via Open... | Proto | 0 |
+| [MarkQWu/openclaw-skills](https://github.com/MarkQWu/openclaw-skills) | Agent Skill/Tool | RU doc | Curated Claude Code skills for gobuildit community | Proto | 0 |
+| [MMXC/openclaw-back](https://github.com/MMXC/openclaw-back) | Other | RU doc | Unspecified | Proto | 0 |
+| [TheheiWorld/openclaw-muti-agent-monitor](https://github.com/TheheiWorld/openclaw-muti-agent-monitor) | Other | RU doc | OpenClaw 多实例、多智能体监控平台。用于跟踪分布式 OpenClaw 实例中的智能体活动、会话状态、Token 用量和系统健康状况。 | Proto | 0 |
+| [karanuppal/openclaw-credential-vault](https://github.com/karanuppal/openclaw-credential-vault) | Other | RU doc | Unspecified | Proto | 0 |
+| [kingdoooo/openclaw-agentcore-memory](https://github.com/kingdoooo/openclaw-agentcore-memory) | Other | RU doc | OpenClaw plugin for enterprise shared memory via Amazon Bedrock AgentCore Memory | Proto | 0 |
+| [tekn0ir/openclaw-helm](https://github.com/tekn0ir/openclaw-helm) | Other | RU doc | Simple Opeclaw Helm tailored for Teknoir platform | Proto | 0 |
+| [PermissionLabs/claw-farm](https://github.com/PermissionLabs/claw-farm) | Other | RU doc | Multi OpenClaw instance manager — scaffold, run, and deploy AI agents with persistent memory | Proto | 0 |
+| [changjess1106-cloud/angela-skills-quest](https://github.com/changjess1106-cloud/angela-skills-quest) | Agent Skill/Tool | RU doc | OpenClaw skills repository | Proto | 0 |
+| [louisophie/BG_record](https://github.com/louisophie/BG_record) | Other | RU doc | My bloog-sugar log since 20260214 before Chinese New Year. | Proto | 0 |
+| [stocki-ai/open-stocki](https://github.com/stocki-ai/open-stocki) | Agent Skill/Tool | RU doc | OpenStocki - AI Financial Analyst Skill for OpenClaw | Proto | 0 |
+| [damzaru/openclaw_windows_node](https://github.com/damzaru/openclaw_windows_node) | Other | RU doc | OpenClaw Windows Node | Proto | 0 |
+| [RorzGonzalez/openclaw-dao](https://github.com/RorzGonzalez/openclaw-dao) | Other | RU doc | A Delegation Agent Orchestration infrastructure for OpenClaw with optional exposure surfaces. | Proto | 0 |
+| [Feahter/openclaw-tools](https://github.com/Feahter/openclaw-tools) | Agent Skill/Tool | RU doc | tools for openclaw | Proto | 0 |
+| [arubachen/openclaw-news-site](https://github.com/arubachen/openclaw-news-site) | Other | RU doc | Unspecified | Proto | 0 |
+| [zerox-account/openclaw-memory](https://github.com/zerox-account/openclaw-memory) | Other | RU doc | Unspecified | Proto | 0 |
+| [riccardogosteli-wq/openclaw-hosting](https://github.com/riccardogosteli-wq/openclaw-hosting) | Other | RU doc | Unspecified | Proto | 0 |
+| [Chendasum/openclaw-deploy](https://github.com/Chendasum/openclaw-deploy) | Other | RU doc | Unspecified | Proto | 0 |
+| [MichielMAnalytics/lifeos](https://github.com/MichielMAnalytics/lifeos) | Connector | RU doc | Personal Life Operating System — CLI + API + Dashboard with 6 themes. Open source, self-hostable, OpenClaw compatible. | Proto | 0 |
+| [aleksbali/kos-workspace-template](https://github.com/aleksbali/kos-workspace-template) | Other | RU doc | Эталонный шаблон workspace для AI агента на OpenClaw | Proto | 0 |
+| [shadowfax1312/engram](https://github.com/shadowfax1312/engram) | Agent Skill/Tool | RU doc | Engram — a persistent knowledge graph skill for OpenClaw. Extracts insights from your conversations, synthesizes pattern... | Proto | 0 |
+| [lebacco-zhou/OpenClawClient](https://github.com/lebacco-zhou/OpenClawClient) | Other | RU doc | 安全加密的 Windows 桌面聊天客户端 - .NET 8 WPF | Proto | 0 |
+| [douyo01-byte/openclaw-factory](https://github.com/douyo01-byte/openclaw-factory) | Other | RU doc | Unspecified | Proto | 0 |
+| [jentic/jentic-quick-claw](https://github.com/jentic/jentic-quick-claw) | Other | RU doc | Openclaw install script for blank Ubuntu host, with Jentic Mini, File Browser and Tailscale. | Proto | 0 |
+| [wufangfang001/tinyrtc](https://github.com/wufangfang001/tinyrtc) | Other | RU doc | A WebRTC project fully developed based on OpenCLAW and applicable to embedded systems | Proto | 0 |
+| [profbernardoj/windowsclaw.org](https://github.com/profbernardoj/windowsclaw.org) | Other | RU doc | OpenClaw installation and optimization for Windows | Proto | 0 |
+| [profbernardoj/vcclaw.org](https://github.com/profbernardoj/vcclaw.org) | Connector | RU doc | Venture capital workflow automation with OpenClaw | Proto | 0 |
+| [arraylee/folotoy-debate-plugin](https://github.com/arraylee/folotoy-debate-plugin) | Other | RU doc | FoloToy multi-device debate plugin for OpenClaw | Proto | 0 |
+| [profbernardoj/officeclaw.ai](https://github.com/profbernardoj/officeclaw.ai) | Other | RU doc | Workplace OpenClaw agent for office productivity and team coordination | Proto | 0 |
+| [Oscarling/openclaw-team](https://github.com/Oscarling/openclaw-team) | Agent Skill/Tool | RU doc | Trello + Git + OpenClaw + Skill + Script | Proto | 0 |
+| [profbernardoj/morpheusclaw.com](https://github.com/profbernardoj/morpheusclaw.com) | Other | RU doc | Morpheus-integrated OpenClaw agent for decentralized inference | Proto | 0 |
+| [profbernardoj/minimaxclaw.com](https://github.com/profbernardoj/minimaxclaw.com) | Other | RU doc | OpenClaw configured with MiniMax as default model | Proto | 0 |
+| [profbernardoj/llamaclaw.org](https://github.com/profbernardoj/llamaclaw.org) | Other | RU doc | OpenClaw configured with Llama as default model | Proto | 0 |
+| [profbernardoj/linuxclaw.com](https://github.com/profbernardoj/linuxclaw.com) | Other | RU doc | OpenClaw installation and optimization for Linux | Proto | 0 |
+| [profbernardoj/kimiclaw.co](https://github.com/profbernardoj/kimiclaw.co) | Other | RU doc | OpenClaw configured with Kimi as default model. Own your AI inference. | Proto | 0 |
+| [profbernardoj/investclaw.ai](https://github.com/profbernardoj/investclaw.ai) | Other | RU doc | Investment research and portfolio management with OpenClaw | Proto | 0 |
+| [profbernardoj/installopenclaw.xyz](https://github.com/profbernardoj/installopenclaw.xyz) | Other | RU doc | Top-of-funnel installation page for OpenClaw flavors and installation methods | Proto | 0 |
+| [profbernardoj/grokclaw.xyz](https://github.com/profbernardoj/grokclaw.xyz) | Other | RU doc | OpenClaw configured with Grok as default model | Proto | 0 |
+| [profbernardoj/glmclaw.com](https://github.com/profbernardoj/glmclaw.com) | Other | RU doc | OpenClaw configured with GLM as default model | Proto | 0 |
+| [profbernardoj/friendclaw.xyz](https://github.com/profbernardoj/friendclaw.xyz) | Other | RU doc | Social OpenClaw agent for friend networks and social coordination | Proto | 0 |
+| [profbernardoj/familyofficeclaw.com](https://github.com/profbernardoj/familyofficeclaw.com) | Other | RU doc | Family office management with OpenClaw - wealth, estate, and governance | Proto | 0 |
+| [profbernardoj/familyclaw.org](https://github.com/profbernardoj/familyclaw.org) | Other | RU doc | Family-focused OpenClaw agent for household management and family coordination | Proto | 0 |
+| [profbernardoj/ethereumclaw.com](https://github.com/profbernardoj/ethereumclaw.com) | Other | RU doc | Ethereum-focused OpenClaw agent for ETH transactions and DeFi | Proto | 0 |
+| [profbernardoj/emailclaw.org](https://github.com/profbernardoj/emailclaw.org) | Other | RU doc | Email management and automation with OpenClaw | Proto | 0 |
+| [profbernardoj/deepseekclaw.org](https://github.com/profbernardoj/deepseekclaw.org) | Other | RU doc | OpenClaw configured with DeepSeek as default model | Proto | 0 |
+| [profbernardoj/briefingclaw.com](https://github.com/profbernardoj/briefingclaw.com) | Other | RU doc | Daily briefing and news digest agent powered by OpenClaw | Proto | 0 |
+| [profbernardoj/bookingclaw.org](https://github.com/profbernardoj/bookingclaw.org) | Other | RU doc | Travel and booking agent powered by OpenClaw | Proto | 0 |
+| [profbernardoj/bitcoinclaw.ai](https://github.com/profbernardoj/bitcoinclaw.ai) | Other | RU doc | Bitcoin-focused OpenClaw agent for BTC transactions and insights | Proto | 0 |
+| [profbernardoj/arbclaw.com](https://github.com/profbernardoj/arbclaw.com) | Other | RU doc | Arbitrum-focused OpenClaw agent for Layer 2 transactions | Proto | 0 |
 | [cerealskill/openclaw-agents](https://github.com/cerealskill/openclaw-agents) | Other | RU doc | Production-ready OpenClaw agent bundles — complete workspace configs ready to deploy | Proto | 0 |
 | [WallyDoodlez/KubeX](https://github.com/WallyDoodlez/KubeX) | Other | RU doc | KubexClaw Orchestration — OpenClaw-based AI agent infrastructure with security-first architecture | Proto | 0 |
 | [mustermuster5432-ux/openclawctl](https://github.com/mustermuster5432-ux/openclawctl) | Connector | RU doc | Manage OpenClaw and CLIProxyAPI with an interactive menu for installation, updates, API control, backups, health checks,... | Proto | 0 |
@@ -94,7 +187,6 @@
 | [johnisawesom/openclaw-researcher](https://github.com/johnisawesom/openclaw-researcher) | Agent Skill/Tool | RU doc | Researcher Bot — weekly AI tool and model research with semantic memory | Proto | 0 |
 | [shengshong/Stratum](https://github.com/shengshong/Stratum) | Other | RU doc | Enhance OpenClaw agents with persistent memory, structured knowledge, semantic search, and continuous self-optimization ... | Proto | 0 |
 | [geziel16/google-workspace-skill](https://github.com/geziel16/google-workspace-skill) | Agent Skill/Tool | RU doc | Control Google Workspace services via structured JSON commands using an OpenClaw skill that wraps the official Google Wo... | Proto | 0 |
-| [changjess1106-cloud/angela-skills-quest](https://github.com/changjess1106-cloud/angela-skills-quest) | Agent Skill/Tool | RU doc | OpenClaw skills repository | Proto | 0 |
 | [Melvynx/openclawpro](https://github.com/Melvynx/openclawpro) | Other | RU doc | Unspecified | Proto | 0 |
 | [rubendario921/openclaw-prism](https://github.com/rubendario921/openclaw-prism) | Agent Skill/Tool | RU doc | Protect OpenClaw gateways by injecting runtime defenses to block prompt injection, risky tools, secret leaks, and file t... | Proto | 0 |
 | [menachemio/openclaw-railway-template](https://github.com/menachemio/openclaw-railway-template) | Other | RU doc | Unspecified | Proto | 0 |
